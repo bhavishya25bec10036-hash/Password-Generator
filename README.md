@@ -39,7 +39,6 @@ It allows users to generate strong passwords and securely store website login de
 6. Test password generation multiple times to ensure randomness.
 
 ## **Screenshots**
-> You may add screenshots of:
 - The main interface
 
 
